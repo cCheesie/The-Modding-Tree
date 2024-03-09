@@ -28,7 +28,9 @@ addLayer("p", {
 
     upgrades: {
         11: {
-            title: "Beat Tower of Anger"
+            title: "Beat Tower of Anger!",
+    description: "Double your point gain.",
+    cost: new Decimal(1),
 
         } , 
     },
